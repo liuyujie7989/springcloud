@@ -1,0 +1,13 @@
+server:
+  port: 9091
+# 数据源
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springcloud
+    username: root
+    password: root
+
+# mybatis 別名包扫描
+mybatis:
+  type-aliases-package: com.liuyujie.pojo
