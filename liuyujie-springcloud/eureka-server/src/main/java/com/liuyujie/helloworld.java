@@ -2,10 +2,10 @@ package com.liuyujie;
 
 /**
  * @author liuyishou
- * @date 2020/7/2
+ * @date 2020/7/28
  */
-public class test3 {
+public class helloworld {
     public static void main(String[] args) {
-        System.out.println("333");
+        System.out.println("hehh");
     }
 }

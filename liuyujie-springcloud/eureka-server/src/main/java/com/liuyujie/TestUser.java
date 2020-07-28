@@ -2,7 +2,7 @@ package com.liuyujie;
 
 /**
  * @author liuyishou
- * @date 2020/7/2
+ * @date 2020/7/28
  */
-public class test4 {
+public class TestUser {
 }
